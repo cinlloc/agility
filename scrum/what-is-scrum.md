@@ -144,6 +144,7 @@ https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/)
 # About Scrum...
 
 * Links: 
+  * [Manifesto for Agile Software Development](https://agilemanifesto.org/) (Agilemanifesto.org)
   * [Official Scrum guide](http://www.scrumguides.org/scrum-guide.html) (Scrum.org)
   * [Scrum and XP from the Trenches - 2nd Edition](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (Henrik Kniberg)
   * [Mike Cohn’s Blog](https://www.mountaingoatsoftware.com/blog) (Mountaingoat)
