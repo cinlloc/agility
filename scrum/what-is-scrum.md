@@ -121,7 +121,6 @@ https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/)
 # Scrum Artifacts
 
 * Backlog (product/sprint) 📜
-* Sprint 🎬
 * Definition Of Done ✅
 * Increment 🍣
 
@@ -133,6 +132,7 @@ https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/)
 
 # Scrum Events
 
+* (Sprint) 🎬
 * Sprint Planning 🔭
 * Daily 🤹
 * Sprint Review 🎅
